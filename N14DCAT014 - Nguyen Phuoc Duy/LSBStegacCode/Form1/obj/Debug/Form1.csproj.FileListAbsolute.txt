@@ -1,0 +1,27 @@
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\bin\Debug\Form1.exe.config
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\bin\Debug\Form1.exe
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\bin\Debug\Form1.pdb
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\obj\Debug\Form1.exe
+C:\Users\Duy\Desktop\LSB\LSBStega\Form1\obj\Debug\Form1.pdb
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\bin\Debug\Form1.exe.config
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.exe
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.pdb
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\bin\Debug\Form1.exe
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\bin\Debug\Form1.pdb
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.Form1.resources
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.Properties.Resources.resources
+E:\Hoc Hanh\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\bin\Debug\Form1.exe.config
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.exe
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.pdb
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\bin\Debug\Form1.exe
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\bin\Debug\Form1.pdb
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.Form1.resources
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.Properties.Resources.resources
+E:\Hoc Hanh\PTIT\Hk1 4th\Khoa Hoc Phap Ly So\LSB\LSBStega\LSBStega\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
